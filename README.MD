@@ -66,23 +66,6 @@ y(t) = 0.5 * (cos(t) + sin(t)) + 0.5 * exp(-t)
 ### ➤ CSV Output
 - Numerical data exported to `.csv` files for analysis or visualization.
 
----
-
-## 📁 Folder Structure
-
-euler_project/
-│
-├── src/
-│ ├── main.rs # Contains logic to solve and plot
-│ └── euler.rs # Euler method module
-│
-├── Cargo.toml # Rust configuration and dependencies
-├── euler_solutions.csv # Output of Euler values
-├── analytic_solution.csv
-├── euler_plot.png # Comparison plot saved as image
-
-
----
 
 ## ▶️ How to Run (in Google Colab)
 
