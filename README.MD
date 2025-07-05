@@ -74,13 +74,15 @@ y(t) = 0.5 * (cos(t) + sin(t)) + 0.5 * exp(-t)
    curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y
    source $HOME/.cargo/env
 
-2.Create File Structure
+2.**Create File Structure**
+```Write main.rs, euler.rs, and Cargo.toml
 
-Write main.rs, euler.rs, and Cargo.toml
-3.Compile & Run
-cargo run --release
-4. Download CSV or Plot
-.Files will be created: euler_solutions.csv, euler_plot.png
+3.**Compile & Run**
+```cargo run --release
+
+
+4. **Download CSV or Plot**
+```Files will be created: euler_solutions.csv, euler_plot.png
 
 
 
