@@ -1,32 +1,71 @@
-🌀 Euler Method Solver using Rust
-📘 Problem Statement
-Initial value problem
+# 🌀 Euler Method Solver using Rust
 
-Equation and initial conditions
+---
 
-Analytical solution for comparison
+## 📘 Problem Statement
+- Initial value problem
+- Equation and initial conditions
+- Analytical solution for comparison
 
-⚙️ Methodology
-➤ Euler Method
-➤ Analytical Comparison
-➤ Step Sizes: n = 20, 100, 1000
-🧪 Technology Stack
-➤ Rust
-➤ Cargo
-➤ Plotters crate
-➤ Google Colab
-➤ CSV Output
-📁 Folder Structure
-➤ src/euler.rs
-➤ src/main.rs
-➤ Cargo.toml
-➤ euler_solutions.csv
-➤ euler_plot.png
-▶️ How to Run (in Google Colab)
-➤ Install Rust
-➤ Generate files
-➤ Compile & run
-➤ Download output
-📊 Output
-➤ CSV of numerical solution
-➤ Plot of Euler vs Analytical
+---
+
+## ⚙️ Methodology
+
+### ➤ Euler Method  
+### ➤ Analytical Comparison  
+### ➤ Step Sizes: n = 20, 100, 1000  
+
+---
+
+## 🧪 Technology Stack
+
+### ➤ Rust  
+### ➤ Cargo  
+### ➤ Plotters crate  
+### ➤ Google Colab  
+### ➤ CSV Output  
+
+---
+
+## 📁 Folder Structure
+
+### ➤ `src/euler.rs`  
+### ➤ `src/main.rs`  
+### ➤ `Cargo.toml`  
+### ➤ `euler_solutions.csv`  
+### ➤ `euler_plot.png`  
+
+---
+
+## ▶️ How to Run (in Google Colab)
+
+### ➤ Install Rust  
+### ➤ Generate files  
+### ➤ Compile & run  
+### ➤ Download output  
+
+---
+
+## 📊 Output
+
+### ➤ CSV of numerical solution  
+### ➤ Plot of Euler vs Analytical  
+
+---
+
+## ✍️ Code Highlights
+
+### ➤ Modular design  
+### ➤ Clear plotting  
+### ➤ CSV export  
+
+---
+
+## 📥 Submission Summary
+
+### ➤ Euler for n = 20  
+### ➤ Extended for n = 100, 1000  
+### ➤ Graphical comparison  
+### ➤ Clean output  
+
+
